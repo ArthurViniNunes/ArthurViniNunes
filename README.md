@@ -7,8 +7,7 @@
 
 ## 📄 My Curriculum Vitae (CV)
 A complete and updated version of my professional experience, skills and projects (Doc/Online):
-- [in English](https://docs.google.com/document/d/18ZBWFukS8vixaw0RW0bFaqSbx5CkIcKd9tTAIUZnaNo/edit?usp=sharing)
-- [Em Português](https://docs.google.com/document/d/1iFbsFdSpxb3GoZ2gmL0Iv14Z0dz_1vMezDsFj870i80/?usp=sharing)
+- [Curriculum Vitae](https://apenasumsonhador.github.io/Curriculum-Vitae/)
 ---
 
 ## 🧠 Main Skills
