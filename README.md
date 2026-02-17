@@ -44,14 +44,14 @@ A complete and updated version of my professional experience, skills and project
 ---
 
 ## 📫 Contact Me
-<div align="center">
-  <a href="mailto:arthurvininunes@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />    
-  </a>
-  <a href="https://www.linkedin.com/in/arthurvininunes/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
+<a href="mailto:arthurvininunes@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" /> arthurvininunes@gmail.com
+</a>
+
+
+<a href="https://www.linkedin.com/in/arthurvininunes/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" /> linkedin.com/in/arthurvininunes/
+</a>
 
 ---
 
