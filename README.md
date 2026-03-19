@@ -6,7 +6,7 @@
 ---
 
 ## 📄 My Curriculum Vitae (CV)
-A complete and updated version of my professional experience, skills and projects (Doc/Online):
+A complete and updated version of my professional experience, skills and projects (Online):
 - [Curriculum Vitae](https://apenasumsonhador.github.io/Curriculum-Vitae/)
 ---
 
