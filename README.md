@@ -55,10 +55,10 @@ The project brings together:
 - an experience focused on content discovery.
 
 <a href="https://github.com/ArthurViniNunes/smash-or-pass/">
-  <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-733C55?style=for-the-badge&logo=github&logoColor=white" alt="Check Repository">
+  <img src="https://img.shields.io/badge/Check%20Repository-733C55?style=for-the-badge&logo=github&logoColor=white" alt="Check Repository">
 </a>
 <a href="https://youtu.be/u6gNtyVILso">
-  <img src="https://img.shields.io/badge/Assistir%20demonstra%C3%A7%C3%A3o-733C55?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  <img src="https://img.shields.io/badge/Watch%20Demo-733C55?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
 </a>
 
 ---
@@ -107,7 +107,7 @@ I am deepening my knowledge in:
 
 - [Resume Full Stack](https://drive.google.com/)
 - [Resume DevOps](https://drive.google.com/)
-- [Resume Engenharia de Software](https://drive.google.com/)
+- [Resume Software Engineering](https://drive.google.com/)
 
 *The links will be updated when the final versions are published.*
 
