@@ -21,25 +21,7 @@
 
 ---
 
-## Sobre mim · About me
-
-### Português
-
-Sou estudante de Ciência da Computação na UFC e desenvolvedor Full Stack com interesse em construir produtos digitais confiáveis, claros e úteis.
-
-Gosto de trabalhar entre produto, experiência e engenharia: entender o problema, organizar as decisões e transformar ideias em software que as pessoas conseguem usar.
-
-Tenho especial interesse por:
-
-- desenvolvimento Full Stack;
-- arquitetura de software;
-- DevOps, cloud e automação;
-- interfaces com boa experiência de uso;
-- sistemas bem documentados e fáceis de manter.
-
-Atualmente, meu projeto principal é o **Smash or Pass**, uma aplicação para descobrir e compartilhar receitas.
-
-### English
+## About me
 
 I am a Computer Science student at UFC and a Full Stack Developer interested in building reliable, clear and useful digital products.
 
@@ -57,33 +39,33 @@ My main personal project is **Smash or Pass**, an application for discovering an
 
 ---
 
-## Projeto em destaque · Featured project
+## Featured project
 
 ### [Smash or Pass](https://github.com/ArthurViniNunes/smash-or-pass/)
 
-Uma aplicação para descobrir, avaliar e compartilhar receitas.
+An app for discovering, rating, and sharing recipes.
 
-O projeto reúne:
+The project brings together:
 
-- interface web;
-- regras de negócio;
-- autenticação;
-- moderação;
-- API documentada;
-- experiência voltada para descoberta de conteúdo.
+- a web interface;
+- business rules;
+- authentication;
+- moderation;
+- a documented API;
+- an experience focused on content discovery.
 
 <a href="https://github.com/ArthurViniNunes/smash-or-pass/">
-  <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-733C55?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
+  <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-733C55?style=for-the-badge&logo=github&logoColor=white" alt="Check Repository">
 </a>
 <a href="https://youtu.be/u6gNtyVILso">
-  <img src="https://img.shields.io/badge/Assistir%20demonstra%C3%A7%C3%A3o-733C55?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir demonstração">
+  <img src="https://img.shields.io/badge/Assistir%20demonstra%C3%A7%C3%A3o-733C55?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
 </a>
 
 ---
 
-## Tecnologias · Technologies
+## Technologies
 
-### Ferramentas · Tools
+## Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,github,gitlab,bitbucket" alt="Git, VS Code, GitHub, GitLab e Bitbucket">
@@ -101,7 +83,7 @@ O projeto reúne:
   <img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript,html,css" alt="React, Vue, JavaScript, TypeScript, HTML e CSS">
 </div>
 
-### Infraestrutura · Infrastructure
+### Infrastructure
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions" alt="Docker, AWS, Linux, Nginx e GitHub Actions">
@@ -109,31 +91,31 @@ O projeto reúne:
 
 ---
 
-## O que estou aprendendo · Currently learning
+## Currently learning
 
-Estou aprofundando meus conhecimentos em:
+I am deepening my knowledge in:
 
-- arquitetura e engenharia de software;
-- cloud computing e DevOps;
-- sistemas distribuídos;
-- qualidade, testes e observabilidade;
-- C# e .NET.
+- software architecture and engineering;
+- cloud computing and DevOps;
+- distributed systems;
+- quality, testing, and observability;
+- C & C++
 
 ---
 
 ## Currículos · Resumes
 
-- [Currículo Full Stack](https://drive.google.com/)
-- [Currículo DevOps](https://drive.google.com/)
-- [Currículo Engenharia de Software](https://drive.google.com/)
+- [Resume Full Stack](https://drive.google.com/)
+- [Resume DevOps](https://drive.google.com/)
+- [Resume Engenharia de Software](https://drive.google.com/)
 
-Os links serão atualizados quando as versões finais estiverem publicadas.
+*The links will be updated when the final versions are published.*
 
 ---
 
-## Vamos conversar · Let's connect
+## Let's connect
 
-Se você quiser conversar sobre tecnologia, produtos digitais, oportunidades ou colaboração, entre em contato:
+If you’d like to talk about technology, digital products, opportunities, or collaboration, please get in touch:
 
 - [Email](mailto:arthurvininunes@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/arthurvininunes/)
@@ -142,7 +124,7 @@ Se você quiser conversar sobre tecnologia, produtos digitais, oportunidades ou 
 
 ---
 
-## Contribuições · Contributions
+## Contributions
 
 <div align="center">
   <picture>
@@ -155,6 +137,5 @@ Se você quiser conversar sobre tecnologia, produtos digitais, oportunidades ou 
 ---
 
 <div align="center">
-  <sub>Construindo software com intenção, clareza e curiosidade.</sub><br>
   <sub>Building software with intention, clarity and curiosity.</sub>
 </div>
