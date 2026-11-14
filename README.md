@@ -99,7 +99,7 @@ I am deepening my knowledge in:
 - cloud computing and DevOps;
 - distributed systems;
 - quality, testing, and observability;
-- C & C++
+- K8s (Kubernetes) and Helm
 
 ---
 
